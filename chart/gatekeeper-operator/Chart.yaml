@@ -4,7 +4,7 @@ name: gatekeeper-operator
 keywords:
   - open policy agent
 version: 3.1.0
-home: https://github.com/open-policy-agent/gatekeeper
+home: https://github.com/willejs/gatekeeper
 sources:
-  - https://github.com/open-policy-agent/gatekeeper.git
+  - https://github.com/willejs/gatekeeper.git
 appVersion: v3.1.0-beta.7
